@@ -23,12 +23,12 @@ body{
 .left,
 .right{
     box-sizing: border-box;
-    padding: 16px;
+    padding: 12px;
 }
 
 .left{
     flex: 1;
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 100px;
 }
 
